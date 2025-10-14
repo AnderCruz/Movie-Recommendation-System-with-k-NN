@@ -1,4 +1,4 @@
-# Movie Recommendation System with k-NN (from Scratch)
+# Movie Recommendation System with k-NN
 
 ## 📌 Project Overview
 
