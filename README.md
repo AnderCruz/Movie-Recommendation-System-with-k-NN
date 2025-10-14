@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System with k-NN (from Scratch)
+# Movie Recommendation System with k-NN (from Scratch)
 
 ## 📌 Project Overview
 
@@ -10,7 +10,7 @@ The goal is twofold:
 
 The dataset used is the popular **MovieLens dataset**, containing users, movies, and ratings. Our task is to build a system capable of generating **personalized movie recommendations** based on user similarities.
 
----
+
 
 ## 🎯 Objectives
 
@@ -21,7 +21,7 @@ The dataset used is the popular **MovieLens dataset**, containing users, movies,
 * Implement the **k-NN algorithm from scratch**.
 * Understand the **challenges and limitations** of recommendation systems.
 
----
+
 
 ## 📊 Dataset
 
@@ -33,7 +33,7 @@ We use the **MovieLens dataset**, which includes:
 
 This dataset is widely used in research and industry for testing **recommender algorithms**.
 
----
+
 
 ## ⚙️ Methodology
 
@@ -48,7 +48,7 @@ This dataset is widely used in research and industry for testing **recommender a
 
 Instead of relying on Scikit-learn, we implemented **k-NN manually** to deepen our understanding of how the algorithm works “under the hood.”
 
----
+
 
 ## 🔄 Project Pipeline
 
@@ -64,7 +64,7 @@ flowchart TD
     F --> G[📊 Evaluate Results & Challenges]
 ```
 
----
+
 
 ## 📈 Expected Results
 
@@ -77,7 +77,7 @@ flowchart TD
   * Cold start problem (new users or items)
   * Scalability issues
 
----
+
 
 ## 👨‍💻 Authors
 
